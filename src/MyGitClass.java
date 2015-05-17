@@ -9,5 +9,4 @@ public class MyGitClass {
 	System.out.println("My Second Git Hub");
 	
 	}
-
 }
